@@ -1,0 +1,16 @@
+body{background-color: red;color: white;
+     text-align: center;opacity:1; font-family:Arial, Helvetica, sans-serif;}
+div.wrap1{background-image:url(../1.jpg);
+         margin:10px,20px;background-attachment: fixed;
+         backface-visibility:visible;background-repeat:no-repeat ;opacity:0.9;
+         background-size: cover;font-weight: bold;
+         max-width: 1000;}  
+figcaption{font-weight: bold;color: white;
+           opacity: 1;}
+div.wrap2{text-align: center;font: medium;}
+#a{opacity:1;max-width: 1000px;padding: 10px;
+   margin: 20px;background-repeat:no-repeat;
+   background-size:cover;}
+#unordered{opacity: 1;text-align: start;block-size: auto;}   
+div.wrap5{text-align:left; color: white;}
+div.wrap6{color: blue;font-weight: bold;}
